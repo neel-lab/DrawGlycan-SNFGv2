@@ -3,7 +3,7 @@ Open source code for DrawGlycan-SNFG (version 2)
 
 This is a fully functional version of DrawGlycan-SNFG (version 2). To use it:
 1. Copy these files to a folder
-2. Open MATLAB and navaigate to the folder
+2. Open MATLAB and navigate to the folder
 3. Then draw the glycan using a command like:<br/>
 to draw Glucose<br/>
      \>> drawglycan('Glc')            <br/>
