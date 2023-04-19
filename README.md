@@ -8,7 +8,9 @@ This is a fully functional version of DrawGlycan-SNFG (version 2). To use it:
 to draw Glucose<br/>
      \>> drawglycan('Glc')            <br/>
 to draw a LacNAc chain *etc*.<br/>
-    \>> drawglycan('Gal(b4)GlcNAc(b?)')<br/>  
+    \>> drawglycan('Gal(b4)GlcNAc(b?)') 
+to draw multiple glycans in a single window<br/>
+    \>> drawglycanTile({'Gal(b3)GalNAc','Gal(b3)GlcNAc','Gal','Gal(b4)GlcNAc'})<br/>
   There are many more examples of IUPAC strings you can use at http://virtualglycome.org/DrawGlycan/DrawExamples.html
  4. To get help, please see the documentation at http://virtualglycome.org/DrawGlycan/DrawGlycanSNFG2_Manual.pdf
    or simply write <br/>
