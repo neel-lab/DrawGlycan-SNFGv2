@@ -12,6 +12,7 @@ to draw a LacNAc chain *etc*.<br/>
 to draw multiple glycans in a single window<br/>
     \>> drawglycanTile({'Gal(b3)GalNAc','Gal(b3)GlcNAc','Gal','Gal(b4)GlcNAc'})<br/>
   There are many more examples of IUPAC strings you can use at http://virtualglycome.org/DrawGlycan/DrawExamples.html
- 4. To get help, please see the documentation at http://virtualglycome.org/DrawGlycan/DrawGlycanSNFG2_Manual.pdf
+ 4. To deploy DrawGlycan-SNFG in PYTHON environment, use the matlab.engine API: https://www.mathworks.com/help/matlab/matlab-engine-for-python.html
+ 5. To get help, please see the documentation at http://virtualglycome.org/DrawGlycan/DrawGlycanSNFG2_Manual.pdf
    or simply write <br/>
     \>> help drawglycan
